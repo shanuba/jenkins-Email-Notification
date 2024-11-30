@@ -7,4 +7,4 @@ RANDOM_NUMBER=$((RANDOM % 100 + 1))
 echo "Random Number: $RANDOM_NUMBER"
 echo "Listing files in the current workspace:"
 ls -la
-echo "Job completed successfully."
+echo "Jenkins Job completed successfully."
