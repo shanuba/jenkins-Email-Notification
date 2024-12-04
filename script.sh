@@ -5,6 +5,4 @@ echo "The current date and time is: $CURRENT_DATE"
 echo "Generating a random number:"
 RANDOM_NUMBER=$((RANDOM % 100 + 1))
 echo "Random Number: $RANDOM_NUMBER"
-echo "Listing files in the current workspace:"
-ls -la
 echo "Jenkins Job completed successfully."
